@@ -1,4 +1,4 @@
-﻿using Dapo.Resource;
+﻿using Dapo.Infrastructure.Resource;
 using System;
 using System.Collections.Generic;
 using System.IO;
